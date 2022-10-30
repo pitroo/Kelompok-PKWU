@@ -1,0 +1,8 @@
+@media screen and (max-width:360px) {
+    .carousel-caption{
+        position: absolute;
+        top: 100px;
+        bottom: 100px;
+    }
+}
+
